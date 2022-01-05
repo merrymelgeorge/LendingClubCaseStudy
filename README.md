@@ -1,52 +1,28 @@
-# Project Name
-> Outline a brief description of your project.
-
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
+# Lending Club Case Study
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The main purpose of this project is to understand and do Exploratory Data Analysis. The project is based on a the loan data of a Consumer Finance company. The objective is to understand the data, analyse the data and find the driving factors to determine whether a loan should be approved or not, and thereby minimise the risk of financial loss and business loss
+- A Consumer Finance Company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+   - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+   - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+- The dataset that has been used in this project is the loan data which includes around 40k loans issued during the period of 2007 to 2011.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Group members:
+* Merrymel George (merrymelgeorge@gmail.com)
+* Prashant Mittal (meetprashantmittal@gmail.com)
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+### Technologies Used
+* IPython - Version 7.29.0
+* Pandas - Version 1.3.4
+* NumPy - Version 1.20.3
+* Jupyter Notebooks - Version 6.4.5
+* Seaborn - Version 0.11.2
+* Matplotlib - Version 3.4.3
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+## Observations and Conclusions
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+* Grade A loan has the lowest charged off loans because of lowest interest rates .As the interest rates increases the charged off loans are increasing.
+* The employees with 0-1 year and 10 –10+years,followed by 7,8 years experience have more charged off loans and the common pattern bewteen them is higher mean value of loan on smaller business.
+* The Median of the annual income is increasing as the experince increase ,the mean annual income of employes  who  defaults loan is less when compared to the employess who fully paid the loan
+* The small bussiness,credit card,debit consolidation has high mean of loan amount which indicates investors should be extra couscious when giving the loan for those purposes 
