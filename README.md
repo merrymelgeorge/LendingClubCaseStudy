@@ -22,7 +22,9 @@
 
 ## Observations and Conclusions
 
-* Grade A loan has the lowest charged off loans because of lowest interest rates .As the interest rates increases the charged off loans are increasing.
-* The employees with 0-1 year and 10 –10+years,followed by 7,8 years experience have more charged off loans and the common pattern bewteen them is higher mean value of loan on smaller business.
-* The Median of the annual income is increasing as the experince increase ,the mean annual income of employes  who  defaults loan is less when compared to the employess who fully paid the loan
-* The small bussiness,credit card,debit consolidation has high mean of loan amount which indicates investors should be extra couscious when giving the loan for those purposes 
+* It is highly risky to lend loans to applicants in the 0-20K annual income range
+* As the interest rates increases, the chances of charge off increases, hence the company should formulate more loan plans with lesser interest rates
+* Small Business Purpose loan lenders show high tendency for defaulting and hence it should be considered as risky category
+* Short term loans should be encouraged as such loans have lesser interest rates which ensures the loan is Fully Paid
+* Grade A loans should be encouraged as such loans have lesser interest rates which ensures the loan is Fully Paid. The order of preference should be Grade A, B, C, D, E, F and G
+* It’s highly risky to lend loans to applicants who has previous bankruptcy record history or public derogatory records. The more the number of records, the higher the risk
